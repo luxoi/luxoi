@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Loyola</h1>
 <h3 align="center">A passionate Full Stack developer from Chile</h3>
 - 🌱 I’m currently learning more about java and spring boot, react, microservices, docker.
-- and learning python with flask too!
 - 📫 How to reach me **luis.loyola2411@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
